@@ -1,4 +1,3 @@
-# **NUS-CAP-5**
 ![NUSCAP5 Logo](NUSCAP5.png)
 <br>Group Members: 
 <br>1. **JACK CHEN**
