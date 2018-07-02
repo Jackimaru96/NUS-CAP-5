@@ -1,5 +1,5 @@
 # **NUS-CAP-5**
-NUSCAP5.PNG
+![NUSCAP5 Logo](NUSCAP5.png)
 <br>Group Members: JACK CHEN, CHAN QING ZHOU
 <br>Proposed Level of Achievement: Gemini
 
@@ -43,7 +43,7 @@ These are some of the features our web app will provide:
 
 # Timeline
 
-### **MIlestone 1** (Completed)
+### **Milestone 1** (Completed)
 **Deliverables**
 1. README 
 2. Project Log (https://tinyurl.com/y9quavnz)
