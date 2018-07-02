@@ -90,7 +90,7 @@ We quickly changed our focus to reading up on HTML, CSS, JS for frontend program
 ![Navigation bar for users not logged in](account.jpg)
 
 ### Navigation Bar (Logged In)
-![Navigation bar for users logged in] (loggedin.png)
+![Navigation bar for users logged in](loggedin.png)
 
 ### Login page 
 ![Login Page](login.png)
@@ -102,13 +102,13 @@ We quickly changed our focus to reading up on HTML, CSS, JS for frontend program
 ![Faculties](faculties.JPG)
 
 ### Modules
-![Modules] (modules.png)
+![Modules](modules.png)
 
 ### Year 
-![Year] (year.png)
+![Year](year.png)
 
 ### Uploaded Answers
-![Answers] (answers.png)
+![Answers](answers.png)
 
 
 ## **Functionalities to be included**
