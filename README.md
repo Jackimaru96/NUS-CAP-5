@@ -84,7 +84,7 @@ We quickly changed our focus to reading up on HTML, CSS, JS for frontend program
 
 ## **Preview** 
 ### Home Page
-![Home Page for Users not logged in](homepage.jpg)
+![Home Page for Users not logged in](homepage.JPG)
 
 ### Navigation Bar (Not logged in)
 ![Navigation bar for users not logged in](account.jpg)
@@ -92,7 +92,23 @@ We quickly changed our focus to reading up on HTML, CSS, JS for frontend program
 ### Navigation Bar (Logged In)
 ![Navigation bar for users logged in] (loggedin.png)
 
-### 
+### Login page 
+![Login Page](login.png)
+
+### Registration page
+![Registration Page](register.png)
+
+### Faculties
+![Faculties](faculties.JPG)
+
+### Modules
+![Modules] (modules.png)
+
+### Year 
+![Year] (year.png)
+
+### Uploaded Answers
+![Answers] (answers.png)
 
 
 ## **Functionalities to be included**
@@ -100,7 +116,7 @@ As our web site is still in development, these are the functions we hope to incl
 1. User profile pages
 2. Social Media Login
 3. Deletion of files
-4. Include all Faculties and Modules
+4. Include all Faculties and Modules (Auto update of modules)
 
 
 # **Feedback from peers**
