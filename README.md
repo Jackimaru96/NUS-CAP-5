@@ -68,10 +68,10 @@ After Milestone 1 reviews, we have decided to switch to web-applcation instead. 
 
 ## **Milestone 2** (Submitted)
 **Deliverables**
-1. README 
+1. README (This file xD)
 2. Project Log (https://tinyurl.com/y9quavnz)
 3. Video (link)
-4. Poster (link)
+4. Poster (See above, or https://tinyurl.com/y7krysfh)
 
 For Milestone 2, upon reading the feedback from Milestone I, we decided to change our project into a web-based application instead of a mobile application. We plan to create a web-based application using Django framework. This web application will allow students to post their own answers for PYP. These answers will be reviewed by other users in the community to verify that the answers are accurate. 
 
