@@ -35,8 +35,6 @@ These are some of the features our web app will provide:
   b. Students are unwilling to post their own answers online because they are unsure of the accuracy of their answers
 
 ## **Tech Stack**
-1. Java
-
 **(Updated)**
 1. Frontend:<br>
   -HTML, CSS, JS
