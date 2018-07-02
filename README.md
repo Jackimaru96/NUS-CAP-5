@@ -11,6 +11,9 @@ Currently, NUS releases past year papers on NUSLib. However, answers for these p
 # Project Scope
 NUSCAP5 aims to provide a centralised platform for students of NUS to find answers for past year papers online and allow students to discuss their answers online. This will allow others to comment on the answers posted by users. 
 
+# Poster
+![Poster](MilestoneIIPoster.png)
+
 # Features
 These are some of the features our web app will provide:
 
