@@ -116,6 +116,8 @@ As our web site is still in development, these are the functions we hope to incl
 2. Social Media Login
 3. Deletion of files
 4. Include all Faculties and Modules (Auto update of modules)
+5. Refining basic functionalities such as upvote and downvote
+6. Refining UX/UI
 
 
 # **Feedback from peers**
