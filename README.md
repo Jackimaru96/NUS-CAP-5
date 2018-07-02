@@ -83,6 +83,17 @@ We quickly changed our focus to reading up on HTML, CSS, JS for frontend program
 5. Adding comments
 
 ## **Preview** 
+### Home Page
+![Home Page for Users not logged in](homepage.jpg)
+
+### Navigation Bar (Not logged in)
+![Navigation bar for users not logged in](account.jpg)
+
+### Navigation Bar (Logged In)
+![Navigation bar for users logged in] (loggedin.png)
+
+### 
+
 
 ## **Functionalities to be included**
 As our web site is still in development, these are the functions we hope to include:
