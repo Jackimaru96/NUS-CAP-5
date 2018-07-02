@@ -1,6 +1,5 @@
 # **NUS-CAP-5**
 ![NUSCAP5 Logo](NUSCAP5.PNG)
-Group Name: NUSCAP5
 Group Members: JACK CHEN, CHAN QING ZHOU
 Proposed Level of Achievement: Gemini
 
