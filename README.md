@@ -12,7 +12,7 @@ Currently, NUS releases past year papers on NUSLib. However, answers for these p
 NUSCAP5 aims to provide a centralised platform for students of NUS to find answers for past year papers online and allow students to discuss their answers online. This will allow others to comment on the answers posted by users. 
 
 # Poster
-![Poster](MilestoneIIPoster.png)
+![Poster](MilestoneIIIPoster.jpg)
 
 # Features
 These are some of the features our web app will provide:
@@ -21,11 +21,13 @@ These are some of the features our web app will provide:
 
 2. **Search function** to search for PYP answers
 
-3. Grouping into respective **Faculties > Modules > Year of Paper**
+3. Grouping into respective **Faculties > Modules > Year, Semester of Paper**
 
 4. **Upvote/downvote system** to show the most accurate answers posted by users
 
 5. **Uploading photos/documents** to show answers
+
+6. **Comments section** to discuss answers posted by users
 
 # How we are different from other platforms
 1. **IVLE Forums**
@@ -84,46 +86,59 @@ We quickly changed our focus to reading up on HTML, CSS, JS for frontend program
 4. Adding your own module code and name
 5. Adding comments
 
+# **Feedback from peers**
+Please provide us with feedback on what further functions/utility you wish to see us develop in our web app, it'll mean alot to us! Thanks!
+
+### **Milestone 3** 
+
+AFter feedback from peers in Milestone II, we have improved on our website and these are the functionalities that we have included:
+
+## **Functionalities included in Milestone 3**
+1. User profile pages, editing of profile pages
+2. Deletion of files uploaded by users
+3. Auto update of modules (synced with NUSMODs)
+4. Refining UX/UI of login/signup
+5. Password reset/changing of password functionalities
+
 ## **Preview** 
-### Home Page
-![Home Page for Users not logged in](homepage.JPG)
+### Home Page (Logged out)
+![Home Page for Users not logged in](homepage_loggedout.png)
+
+### Home Page (Logged In)
+![Home Page for logged in Users](homepage_loggedin.png)
 
 ### Navigation Bar (Not logged in)
-![Navigation bar for users not logged in](account.jpg)
+![Navigation bar for users not logged in](navbar_loggedout.png)
 
 ### Navigation Bar (Logged In)
-![Navigation bar for users logged in](loggedin.png)
+![Navigation bar for users logged in](navbar_loggedin.png)
 
 ### Login page 
 ![Login Page](login.png)
 
 ### Registration page
-![Registration Page](register.png)
+![Registration Page](signup.png)
+
+### Password Reset 
+![Password Reset](password_reset.png)
+![Password Reset Done](password_reset_done.png)
 
 ### Faculties
-![Faculties](faculties.JPG)
+![Faculties](faculties.png)
+
+### Searching for Modules
+![Searching for Modules](searchbar.png)
+![Results](results.png)
 
 ### Modules
-![Modules](modules.png)
+![Modules](list_of_modules.png)
 
 ### Year 
 ![Year](year.png)
 
 ### Uploaded Answers
 ![Answers](answers.png)
+![Many Answers](many_answers.png)
 
-
-## **Functionalities to be included**
-As our web site is still in development, these are the functions we hope to include:
-1. User profile pages
-2. Social Media Login
-3. Deletion of files
-4. Include all Faculties and Modules (Auto update of modules)
-5. Refining basic functionalities such as upvote and downvote
-6. Refining UX/UI
-
-
-# **Feedback from peers**
-Please provide us with feedback on what further functions/utility you wish to see us develop in our web app, it'll mean alot to us! Thanks!
-
-### **Milestone 3** (To be continued... 30 July 2018)
+### Comments Section
+![Comments](comments.png)
