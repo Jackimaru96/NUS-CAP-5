@@ -68,7 +68,7 @@ We did some initial planning by brainstorming what motivates us and what solutio
 After Milestone 1 reviews, we have decided to switch to web-applcation instead. See below for more information.
  
 
-## **Milestone 2** (Submitted)
+## **Milestone 2** (Completed)
 **Deliverables**
 1. README (This file xD)
 2. Project Log (https://tinyurl.com/y9quavnz)
@@ -85,9 +85,6 @@ We quickly changed our focus to reading up on HTML, CSS, JS for frontend program
 3. Uploading of documents
 4. Adding your own module code and name
 5. Adding comments
-
-# **Feedback from peers**
-Please provide us with feedback on what further functions/utility you wish to see us develop in our web app, it'll mean alot to us! Thanks!
 
 ### **Milestone 3** 
 
