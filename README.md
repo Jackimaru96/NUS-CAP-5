@@ -56,9 +56,9 @@ These are some of the features our web app will provide:
 ## **Milestone 1** (Completed)
 **Deliverables**
 1. README 
-2. Project Log (https://tinyurl.com/y9quavnz)
+2. Project Log (https://tinyurl.com/ybq6m8vb)
 3. Video (https://tinyurl.com/y7ya2g96)
-4. Poster (https://tinyurl.com/y79lv2ol)
+4. Poster (Removed)
 
 We hope to be able to have our basic idea for our project by the end of Milestone 1 and to learn by ourselves the essential skills and tech stack required for our project. We have chosen to build an Android App for this and we will require to be able to make use of Android Studio and basic Java to do so.
 
@@ -71,9 +71,9 @@ After Milestone 1 reviews, we have decided to switch to web-applcation instead. 
 ## **Milestone 2** (Completed)
 **Deliverables**
 1. README (This file xD)
-2. Project Log (https://tinyurl.com/y9quavnz)
-3. Video (link)
-4. Poster (See above, or https://tinyurl.com/y7krysfh)
+2. Project Log (https://tinyurl.com/ybq6m8vb)
+3. Video (https://youtu.be/wTMVcciaejA)
+4. Poster (Removed)
 
 For Milestone 2, upon reading the feedback from Milestone I, we decided to change our project into a web-based application instead of a mobile application. We plan to create a web-based application using Django framework. This web application will allow students to post their own answers for PYP. These answers will be reviewed by other users in the community to verify that the answers are accurate. 
 
@@ -88,7 +88,13 @@ We quickly changed our focus to reading up on HTML, CSS, JS for frontend program
 
 ### **Milestone 3** 
 
-AFter feedback from peers in Milestone II, we have improved on our website and these are the functionalities that we have included:
+**Deliverables**
+1. README
+2. Project Log (https://tinyurl.com/ybq6m8vb)
+3. Video (link)
+4. Poster (See above, or https://tinyurl.com/ydfgfz42)
+
+After feedback from peers in Milestone II, we have improved on our website and these are the functionalities that we have included:
 
 ## **Functionalities included in Milestone 3**
 1. User profile pages, editing of profile pages
